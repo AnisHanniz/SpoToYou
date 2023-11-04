@@ -1,0 +1,12 @@
+tk
+spotipy
+html5lib
+youtubesearchpython
+google-api-python-client
+google-auth
+requests
+requests-html
+beautifulsoup4
+youtube-dl
+pathlib
+pandas

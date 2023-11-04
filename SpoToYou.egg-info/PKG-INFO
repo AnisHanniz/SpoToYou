@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: SpoToYou
+Version: 1.0
+Summary: An application that converts your Spotify playlists to YouTube playlists
+Author: Anis HANNIZ
+Author-email: hanniz.n.anis@gmail.com
+Keywords: web flask
+Requires-Dist: tk
+Requires-Dist: spotipy
+Requires-Dist: html5lib
+Requires-Dist: youtubesearchpython
+Requires-Dist: google-api-python-client
+Requires-Dist: google-auth
+Requires-Dist: requests
+Requires-Dist: requests-html
+Requires-Dist: beautifulsoup4
+Requires-Dist: youtube-dl
+Requires-Dist: pathlib
+Requires-Dist: pandas

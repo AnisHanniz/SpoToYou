@@ -1,0 +1,6 @@
+setup.py
+SpoToYou.egg-info/PKG-INFO
+SpoToYou.egg-info/SOURCES.txt
+SpoToYou.egg-info/dependency_links.txt
+SpoToYou.egg-info/requires.txt
+SpoToYou.egg-info/top_level.txt
